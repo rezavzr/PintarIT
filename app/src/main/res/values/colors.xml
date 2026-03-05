@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="light_gray">#FFEDEDED</color>
+    <color name="warna_earbuds">#CCE2D6</color>
+    <color name="main_color_blue">#5EA5DD</color>
+    <color name="green_color">#6AA84F</color>
+    <color name="red_color">#FF0000</color>
+    <color name="biru_tuaan">#0D5C97</color>
+    <color name="cream">#FFE8C6</color>
+    <color name="qtela_pucet">#FE763C</color>
+    <color name="qtela_main">#F92809</color>
+</resources>

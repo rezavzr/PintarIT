@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PintarIT" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/qtela_main</item>
+        <item name="colorSecondary">@color/qtela_pucet</item>
+        <item name="colorAccent">@color/qtela_main</item>
+        <item name="android:statusBarColor">@color/qtela_main</item>
+    </style>
+
+    <style name="Theme.PintarIT" parent="Base.Theme.PintarIT" />
+</resources>
